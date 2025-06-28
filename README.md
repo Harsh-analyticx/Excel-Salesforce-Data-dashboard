@@ -3,7 +3,9 @@
 This repository contains an interactive *Excel-based dashboard* that visualizes and analyzes sales data for a fictional Salesforce company. It provides insights into revenue performance, geographic distribution, customer demographics, and product category sales over the years *2015 and 2016*.
 
 ---
-https://github.com/Harsh-analyticx/Excel-Salesforce-Data-dashboard/blob/main/Screenshot%202025-06-28%20231938.png
+## 📷 Screenshot
+
+![Salesforce Dashboard]( https://github.com/Harsh-analyticx/Excel-Salesforce-Data-dashboard/blob/main/Screenshot%202025-06-28%20231938.png )
 ## 🧩 Dashboard Features
 
 This dashboard includes the following key visual components:
