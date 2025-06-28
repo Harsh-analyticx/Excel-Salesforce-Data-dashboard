@@ -71,7 +71,7 @@ This dashboard includes the following key visual components:
 
 ## 📷 Screenshot
 
-![Salesforce Dashboard](  )
+![Salesforce Dashboard]( https://github.com/Harsh-analyticx/Excel-Salesforce-Data-dashboard/blob/main/Screenshot%202025-06-28%20231938.png )
 
 ---
 
