@@ -1,4 +1,4 @@
- #Salesforce Company Sales Dashboard using Excel
+ # Salesforce Company Sales Dashboard using Excel
 
 ##This interactive Sales Performance Dashboard provides a comprehensive overview of sales insights for the Salesforce company across multiple dimensions like geography, product categories, customer demographics, and time.
 
